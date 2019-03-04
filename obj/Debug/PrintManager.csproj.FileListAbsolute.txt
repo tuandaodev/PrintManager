@@ -1,0 +1,9 @@
+D:\PrintManager\PrintManager\bin\Debug\PrintManager.exe.config
+D:\PrintManager\PrintManager\bin\Debug\PrintManager.exe
+D:\PrintManager\PrintManager\bin\Debug\PrintManager.pdb
+D:\PrintManager\PrintManager\obj\Debug\PrintManager.csprojResolveAssemblyReference.cache
+D:\PrintManager\PrintManager\obj\Debug\PrintManager.FrmPrintManager.resources
+D:\PrintManager\PrintManager\obj\Debug\PrintManager.Properties.Resources.resources
+D:\PrintManager\PrintManager\obj\Debug\PrintManager.csproj.GenerateResource.Cache
+D:\PrintManager\PrintManager\obj\Debug\PrintManager.exe
+D:\PrintManager\PrintManager\obj\Debug\PrintManager.pdb
