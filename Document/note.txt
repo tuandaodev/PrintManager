@@ -1,0 +1,2 @@
+//List gia tri PrinterState
+https://docs.microsoft.com/en-us/windows/desktop/CIMWin32Prov/win32-printer
